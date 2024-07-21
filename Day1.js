@@ -89,5 +89,12 @@ console.log(x||y)
 
 console.log(z)
 
+/*using logical operator to find whether
+the age of a person lies between 10 and 20 ? */
+
+let person = 30
+
+console.log((person>10)||(person<20))
+
 
 
